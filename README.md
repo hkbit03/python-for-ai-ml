@@ -3,4 +3,5 @@
 # Phase 1: Fundamentals
 
 ### Variables
-[variables.md](/variables.md)
+[Type Systems](/type_system.md)
+[Variables](/variables.md)

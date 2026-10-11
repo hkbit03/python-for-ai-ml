@@ -4,7 +4,7 @@
 -   When a variable is assigned a value, python binds the name to the
     corresponding object rather than requiring the programmer to declare
     a fixed memory location or data type explicitly
-
+- A **variable** is a symbolic name that references (points to) an object stored in memory. You create a variable by assigning a value to a name using = operator; no explicit type declaration is needed because Python is dynamically typed.
 ``` python
 x = 10
 name = "Python"
@@ -136,3 +136,6 @@ reference of the object on the right to the name on the left.
 ``` python
 a_name = an_object  # "a_name" is now a name for the reference to the object "an_object"
 ```
+
+
+[<prev](/type_system.md) | [next>](/datatype.md)
