@@ -516,3 +516,8 @@ Falsy: `False None 0 0.0 "" [] () {} set()`
    ```
 9. Write a `match` statement that handles `("add", a, b)`, `("neg", a)`, and anything else.
 10. Predict the output **before** running: `print("" or 0 or [] or "end")`, `print(1 and 2 and 3)`, `print(not [] and "yes")`.
+
+
+[(Prev) Introduction](Introduction.md) - [(Next) Strings](Strings.md)
+
+[Table of Contents](README.md)
