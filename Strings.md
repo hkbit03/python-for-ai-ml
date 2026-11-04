@@ -362,3 +362,6 @@ Other habits:
 - Use `str.split()` with no argument to split on whitespace.
 - For complex pattern matching, use the `re` module rather that chaining string methods.
 
+[(Prev) Conditionals](Conditionals.md) - [(Next) Python Lists](Lists.md)
+
+[Table of Contents](README.md)
