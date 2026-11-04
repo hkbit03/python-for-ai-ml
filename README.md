@@ -1,3 +1,6 @@
-# Python for AI/ML
+# Python for AI/ML - with DSA
 
-[Strings](Strings.md)
+
+- [Introduction, Basic Syntax, Variables, Datatypes, and Operators](Introduction.md)
+- [Conditionals](Conditionals.md)
+- [Strings](Strings.md)
