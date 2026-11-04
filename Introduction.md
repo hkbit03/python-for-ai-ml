@@ -593,3 +593,5 @@ a is b       # may be False. NEVER use `is` to compare values
 ---
 
 [(Prev) Table of Contents](README.md) - [(Next) Conditionals](Conditionals.md)
+
+[Table of Contents](README.md)
